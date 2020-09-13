@@ -47,6 +47,8 @@ Documentation - Design and implementation of project
 
 Hardware Specs - Documentation for any hardware used in the project. 
 
+Schematic - Contains schematics of board layout design.
+
 Protocol Documentation - Research papers on information about AX.25/KISS/HDLC/etc.
 
 Software - Current code for Stm32 based TNC.
